@@ -96,3 +96,6 @@ restaurant_management/
 ├── main.py # Main application script 
 └── README.md # This file
 ```
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
