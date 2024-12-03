@@ -47,3 +47,12 @@ pip install mysql-connector-python
 
 ### 4. Access the Application:
    The application will open a GUI for interaction.
+
+# Default Login Credentials
+
+## Admin
+Username: admin
+Password: admin
+## Client
+Username: client
+Password: client
