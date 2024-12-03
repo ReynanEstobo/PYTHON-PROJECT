@@ -52,7 +52,9 @@ pip install mysql-connector-python
 
 ## Admin
 Username: admin
+
 Password: admin
 ## Client
 Username: client
+
 Password: client
