@@ -36,6 +36,7 @@ pip install mysql-connector-python
   cd <repository-folder>
    ```
 
+
 2. Set Up MySQL Database:
   Create a database named RestaurantDB and necessary tables.
 
