@@ -22,10 +22,17 @@ Alter Reservations by editing existing entries.
 * Python 3.7+
 * Tkinter for the GUI
 * MySQL Connector for database interaction
-Install dependencies using:
+
+Required Python libraries:
 ```
 pip install mysql-connector-python
 ```
+Install dependencies using:
+```
+pip install -r requirements.txt
+```
+
+
 
 ## Setup
 
