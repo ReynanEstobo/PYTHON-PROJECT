@@ -58,3 +58,34 @@ Password: admin
 Username: client
 
 Password: client
+
+# Database Structure
+
+`The Reservations table includes:`
+
+* reservation_id (Primary Key)
+* client_id (Foreign Key)
+* date
+* time
+* place
+* event_type
+* guest_count
+* status
+* rejection_reason (optional)
+
+`The Client table includes:`
+
+* client_id (Primary Key)
+* full_name
+* address
+* contact_number
+* email
+* username
+* password
+
+`The Admin table includes:`
+
+* admin_id (Primary Key)
+* username
+* password
+
