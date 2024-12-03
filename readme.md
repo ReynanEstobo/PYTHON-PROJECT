@@ -2,7 +2,7 @@
 
 This project is a Restaurant Management System, built with Tkinter for the graphical user interface and MySQL for database management. The system provides an easy-to-use interface for managing restaurant reservations for both admins and clients.
 
-## Features
+# Features
 
 # User Features
 
