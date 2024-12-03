@@ -89,3 +89,10 @@ Password: client
 * username
 * password
 
+# Directory Structure
+`
+restaurant_management/ 
+│ 
+├── main.py # Main application script 
+└── README.md # This file
+`
