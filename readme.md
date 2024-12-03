@@ -30,10 +30,12 @@ pip install mysql-connector-python
 ## Setup
 
 1. Clone the Repository:
+   
    ```
   git clone <repository-url>
   cd <repository-folder>
    ```
+
 2. Set Up MySQL Database:
   Create a database named RestaurantDB and necessary tables.
 
