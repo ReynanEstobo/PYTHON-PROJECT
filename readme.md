@@ -39,8 +39,8 @@ pip install -r requirements.txt
 ### 1. Clone the Repository:
    
    ```
-  git clone <repository-url>
-  cd <repository-folder>
+  git clone <https://github.com/ReynanEstobo/PYTHON-PROJECT.git>
+  cd <repository-PYTHON-PROJECT>
    ```
 
 ### 2. Set Up MySQL Database:
