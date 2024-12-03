@@ -44,3 +44,6 @@ pip install mysql-connector-python
   ```
   python AgotAPP.py
   ```
+
+### 4. Access the Application:
+   The application will open a GUI for interaction.
